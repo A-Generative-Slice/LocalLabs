@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+backend/chroma_db/
+backend/test_docs/
+frontend/test_docs/
+backend/app/chat_sessions.json

@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+mcp
+python-multipart
+pypdf
+python-docx
+pytesseract
+pandas
+sentence-transformers
+chromadb
+openai
+fpdf2
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pillow
+openpyxl
